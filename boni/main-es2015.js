@@ -531,7 +531,8 @@ let EpisodesService = class EpisodesService {
                     "https://storage.googleapis.com/kasian.appspot.com/720_ItaewonClass_11.mp4",
                     "https://storage.googleapis.com/kasian.appspot.com/720_ItaewonClass_12.mp4",
                     "https://storage.googleapis.com/kasian.appspot.com/720_ItaewonClass_13.mp4",
-                    "https://storage.googleapis.com/kasian.appspot.com/720_ItaewonClass_14.mp4"
+                    "https://storage.googleapis.com/kasian.appspot.com/720_ItaewonClass_14.mp4",
+                    "https://storage.googleapis.com/kasian.appspot.com/720_ItaewonClass_15.mp4"
                 ],
                 pic: 'assets/itaweon.png'
             },
